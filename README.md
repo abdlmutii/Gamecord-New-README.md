@@ -31,7 +31,7 @@
   - [Slots](#slots)
 
 
-### ❌ Tic Tac Toe
+### Tic Tac Toe
 - **Check supported colors from discord.js guide [here](https://discordjs.guide/interactions/buttons.html#button-styles)**
 ```js
 const { TicTacToe } = require('discord-gamecord')
