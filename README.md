@@ -67,3 +67,11 @@ message: interaction,
 slash_command: true,
 opponent: interaction.options.getUser('user'),
 ```
+
+### Snake
+```js
+```
+
+### Working with interactions
+```js
+```
