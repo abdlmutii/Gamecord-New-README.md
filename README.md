@@ -6,9 +6,10 @@
 </div>
 
 ### What is gamecord?
-- **[Discord Gamecord](https://discord.gg/invite/GaczkwfgV9) is a powerful module that allows you to play games within Discord**
+- [**Discord Gamecord**](https://discord.gg/invite/GaczkwfgV9) is a powerful module that allows you to play games within Discord
 
 ### Why should you use gamecord?
-- **Beginners friendly**
-- **High customize**
-- **Support 10+ games**
+- Beginner friendly
+- High customize
+- Support 10+ games
+- First discord games package to support slash commands
