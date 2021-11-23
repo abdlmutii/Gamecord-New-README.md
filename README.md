@@ -12,11 +12,11 @@
 ```diff
 + npm install discord-gamecord
 ````
-📁 Support for all databases! (default is json)
-⚙️ Very customizable! (prize, duration, winners, ignored permissions, bonus entries, etc...)
-### Why should you use gamecord?
+
 - 🤩 Beginner friendly
-- 🎨 Very customizable `messages`.
+- 🎨 Very customizable `messages`, `buttons`, `colors`, `etc..`
 - 🎮 Support 11+ games
 - 📎 First discord games package support slash commands,
 - 🇪🇬 Support for translations, adapt the strings for your own language!
+
+### 
