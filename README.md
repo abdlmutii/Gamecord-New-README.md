@@ -23,7 +23,7 @@
 - Games & Examples
   - [2048](#2048)
   - [Snake](#snake)
-  - [Tic Tac Toe](#tictactoe)
+  - [Tic Tac Toe](#tic-tac-toe)
   - [Rock Paper Scissors](#rockpaperscissors-)
   - [Connect Four](#connectfour-)
   - [Trivia](#trivia-)
@@ -59,4 +59,11 @@ new TicTacToe({
   winMessage: '{emoji} | **{winner}** won the game!',
   gameEndMessage: 'The game went unfinished :(',
 }).startGame();
+```
+ 
+### Working with interactions
+```js
+message: interaction,
+slash_command: true,
+opponent: interaction.options.getUser('user'),
 ```
