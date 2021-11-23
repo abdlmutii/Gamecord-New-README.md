@@ -9,7 +9,8 @@
 - [**Discord Gamecord**](https://discord.gg/invite/GaczkwfgV9) is a powerful module that allows you to play games within Discord
 
 ### Why should you use gamecord?
-- Beginner friendly
-- High customize
-- Support 10+ games
-- First discord games package to support slash commands
+- 🤩 Beginner friendly
+- 🎨 Very high customized.
+- 🎮 Support 10+ games
+- 📎 First discord games package to support slash commands
+- 🇪🇬 Supporting translate. You can translate messages from the game settings
