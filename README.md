@@ -8,6 +8,11 @@
 ### What is gamecord?
 - [**Discord Gamecord**](https://discord.gg/invite/GaczkwfgV9) is a powerful module that allows you to play games within Discord
 
+### How to install gamecord?
+```
+npm i discord-gamecord@latest
+````
+
 ### Why should you use gamecord?
 - 🤩 Beginner friendly
 - 🎨 Very high customized.
