@@ -21,7 +21,7 @@
 
 ### Table of content
 - Games & Examples
-  - [2048](#2048-)
+  - [2048](#2048)
   - [Snake](#snake-)
   - [Tic Tac Toe](#tictactoe-)
   - [Rock Paper Scissors](#rockpaperscissors-)
