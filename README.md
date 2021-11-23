@@ -29,3 +29,7 @@
   - [Trivia](#trivia-)
   - [Fishy](#fishy-)
   - [Slots](#slots)
+
+
+### 2048
+lol
