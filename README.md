@@ -21,13 +21,13 @@
 
 ### Table of content
 - Games & Examples
-  - [2048](#2048)
+  - [2048](example/2048)
   - [Snake](#snake)
   - [Tic Tac Toe](#tic-tac-toe)
-  - [Rock Paper Scissors](#rockpaperscissors-)
-  - [Connect Four](#connectfour-)
-  - [Trivia](#trivia-)
-  - [Fishy](#fishy-)
+  - [Rock Paper Scissors](examples/rockpaperscissors)
+  - [Connect Four](examples/connectfour)
+  - [Trivia](examples/trivia)
+  - [Fishy](examples/fishy)
   - [Slots](#slots)
 
 
