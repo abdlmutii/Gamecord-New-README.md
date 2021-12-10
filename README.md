@@ -19,54 +19,20 @@
 - 📎 First discord games package support slash commands,
 - 🇪🇬 Support for translations, adapt the strings for your own language!
 
-### Table of content
-- Games & Examples
+### Examples
+- Games
   - [2048](example/2048)
   - [Snake](#snake)
-  - [Tic Tac Toe](#tic-tac-toe)
+  - [Tic Tac Toe](examples/tic-tac-toe)
   - [Rock Paper Scissors](examples/rockpaperscissors)
   - [Connect Four](examples/connectfour)
   - [Trivia](examples/trivia)
   - [Fishy](examples/fishy)
-  - [Slots](#slots)
+  - [Slots](examples/slots)
 
-
-### Tic Tac Toe
-- **Check supported colors from discord.js guide [here](https://discordjs.guide/interactions/buttons.html#button-styles)**
-```js
-const { TicTacToe } = require('discord-gamecord')
-
-new TicTacToe({
-  message: message,
-  slash_command: false,
-  opponent: message.mentions.users.first(),
-  embed: {
-    title: 'Tic Tac Toe',
-    overTitle: 'Game Over',
-    color: '#5865F2',
-  },
-  oEmoji: '🔵',
-  xEmoji: '❌',
-  blankEmoji: '➖',
-  oColor: 'PRIMARY',
-  xColor: 'DANGER',
-  waitMessage: 'Waiting for the opponent...',
-  turnMessage: '{emoji} | Its now **{player}** turn!',
-  askMessage: 'Hey {opponent}, {challenger} challenged you for a game of Tic Tac Toe!',
-  cancelMessage: 'Looks like they refused to have a game of Tic Tac Toe. \:(',
-  timeEndMessage: 'Since the opponent didnt answer, i dropped the game!',
-  drawMessage: 'It was a draw!',
-  winMessage: '{emoji} | **{winner}** won the game!',
-  gameEndMessage: 'The game went unfinished :(',
-}).startGame();
-```
- 
-### Working with interactions
-```js
-message: interaction,
-slash_command: true,
-opponent: interaction.options.getUser('user'),
-```
+### Docs
+- **Gamecord have docs to check and understand all games and package, in [`discord-gamecord.js.org`](https://discord-gamecord.js.org/)**
+- **But i'm looking for examples! , Check [`examples`](examples folder link) folder**
 
 ### Snake
 ```js
@@ -95,8 +61,12 @@ new Snake({
 }).startGame();
 ```
 
-### Working with interactions
+### Working with interactions 
+- **Also known as [`slash commands`](), just change this few things below :**
 ```js
 message: interaction,
 slash_command: true,
 ```
+
+### Looking For Help?
+![Server Widget](server widget url)
